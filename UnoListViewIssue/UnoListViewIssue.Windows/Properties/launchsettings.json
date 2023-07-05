@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"UnoListViewIssue.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"UnoListViewIssue.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}
